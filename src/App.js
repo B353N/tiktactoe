@@ -5,6 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <h1>Tic Tac Toe</h1>
       <div className='board'>
         <div className='square'></div>
         <div className='square'></div>
