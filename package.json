@@ -1,0 +1,28 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "Tik Tac Toe game with nodejs and react",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B353N/tiktactoe.git"
+  },
+  "keywords": [
+    "TikTacToe",
+    "Game",
+    "React",
+    "Nodejs"
+  ],
+  "author": "Rumen Slavov (B353N)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/B353N/tiktactoe/issues"
+  },
+  "homepage": "https://github.com/B353N/tiktactoe#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
